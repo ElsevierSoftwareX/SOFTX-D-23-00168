@@ -17,9 +17,7 @@ Windows 64 bit x86.
 Download and install the Windows 64-bit version of the MOSEK Version 9.1.10 from the MOSEK Web site by navigating to https://www.mosek.com/downloads/9.1.10/ . 
 MOSEK provides faculty, students or staff at degree-granting academic institutions a free academic license. The free academic license can only be used for research in academic institutions or educational purposes. 
 Academic licences can be requested at https://www.mosek.com/products/academic-licenses/. The license file mosek.lic should be saved to:  C:\users\<userid>\mosek\, where <userid> is the User ID on the computer. Please note that the folder ‘mosek’ in C:\users\<userid>\ should be created by the user. Use the ‘Test license system’ utility which is available in ‘Mosek Optimization Tools’ from the Start Menu to verify that the license is checked out correctly. For further details visit: www.mosek.com.
-***
 ### Setup instructions
-***
 To install DynABlock_2D on a computer running Windows 10 Operating system: right-click on  ‘DynABlock_2D_Setup.exe’ and select Run as administrator; 
 follow the instructions in the installation wizard, using default options for installation folders. Select the option ‘Add a shortcut to the desktop’. 
 If the MATLAB® Runtime is not installed, the User will be requested to download the Windows 64-bit version of the MATLAB® Runtime from the MathWorks Website. The MATLAB® Runtime is about 790 MB, this might take few minutes to complete. 
