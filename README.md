@@ -24,7 +24,8 @@ If the MATLAB® Runtime is not installed, the User will be requested to download
 For more information about the MATLAB® Runtime and the MATLAB® Runtime installer, see Package and Distribute in the MATLAB® Compiler documentation in the MathWorks Documentation Center (www.mathworks.com).    
 
 ## Getting started
-To run the examples attached, right click on the DynABlock_2D shortcut icon on your desktop. The shortcut icon can be also saved and opened in another folder. Otherwise, open DynABlock_2D pointing to "All Apps" on the Start menu and clicking DynABlock_2D. 
+To run the analysis, right click on the DynABlock_2D shortcut icon on your desktop. The shortcut icon can be also saved and opened in another folder. Otherwise, open DynABlock_2D pointing to "All Apps" on the Start menu and clicking DynABlock_2D. 
 After few seconds, the MS-DOS prompt appears where control messages are displayed as the analysis starts and proceeds. The DynABlock_2D ‘Open File’ window also appears. Select the XLS input file. 
 Please note that the DXF and XLS files must be saved into the same folder of the shortcut icon (i.e. Desktop or another folder). Using Windows file explorer to point to a different folder from that used to run the shortcut icon is not allowed in the current version of the code.
+For examples and documentation please also refer to: https://doi.org/10.5281/zenodo.6657392
 
